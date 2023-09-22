@@ -141,7 +141,7 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: "7f93fba33920f3cf7f98dd1b73731fe1dfa3a5ac"
+      resolved-ref: f69ba2123b6537448ad4bd3ec153063bc2b39484
       url: "https://github.com/fakhry-alnaffar/rive-flutter.git"
     source: git
     version: "1.0.0"
