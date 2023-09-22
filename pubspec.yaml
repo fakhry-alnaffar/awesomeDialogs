@@ -3,7 +3,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 description: >-
   Flutter package to show beautiful dialogs(INFO,QUESTION,WARNING,SUCCESS,ERROR) with animations as simply as possible.
-version: 3.3.0
+version: 3.5.0
 homepage: https://github.com/fakhry-alnaffar/awesomeDialogs
 
 environment:
