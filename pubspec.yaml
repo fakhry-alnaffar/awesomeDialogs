@@ -13,10 +13,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  rive:
-    git:
-      url: https://github.com/fakhry-alnaffar/rive-flutter.git
-      ref: master
+  rive: ^0.9.1
 
 dev_dependencies:
   flutter_test:
